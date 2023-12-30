@@ -1,6 +1,6 @@
 {
     "name": "jpgom/revisando_php",
-    "description": "Pacote Para revisamento no composer",
+    "description": "Revisão no composer",
     "require": {
         "monolog/monolog": "^2.9"
     },
